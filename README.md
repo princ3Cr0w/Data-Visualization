@@ -1,7 +1,7 @@
 ## Data visualization using Tableau
  <strong>Data analysis framework</strong> 
  <br></br>
-  <code style="color : purple">Share</code>
+  <code style="color : purple">Share Phase</code>
 
 
  ```mermaid
