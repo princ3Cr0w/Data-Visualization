@@ -1,4 +1,14 @@
 ## Data visualization using Tableau
+ <i>Data analysis framework</i>
+
+ ```mermaid
+graph TD;
+    Ask-->Plan;
+    Plan-->Process;
+    Process-->Analyze;
+    Analyze-->Share;
+    Share-->Act;
+```
  <h3>World Happiness by Health, Family, Generosity, and Economy</h3>
  <ahref>https://public.tableau.com/app/profile/marc.natividad/viz/WorldHappinessbyHealthFamilyGenerosityandEconomy/Dashboard1</ahref>
  <br></br>
@@ -10,4 +20,7 @@
   
 > [!NOTE]
 > <em>Visualization portfolio in Tableau is updated on a regular basis.</em>
+Here is a simple flow chart:
+
+
 
