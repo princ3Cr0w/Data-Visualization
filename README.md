@@ -1,5 +1,8 @@
 ## Data visualization using Tableau
- <i>Data analysis framework</i>
+ <strong>Data analysis framework</strong> 
+ <br></br>
+ <span style="color: blue">Share phase</span>
+
 
  ```mermaid
 graph TD;
