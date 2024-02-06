@@ -20,7 +20,7 @@ graph TD;
   
 > [!NOTE]
 > <em>Visualization portfolio in Tableau is updated on a regular basis.</em>
-Here is a simple flow chart:
+
 
 
 
