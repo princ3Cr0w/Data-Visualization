@@ -8,39 +8,6 @@
 </div>
 
 
-### Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-This is an introduction to my project.
-
-## Features
-
-Here are the features of my project.
-
-## Installation
-
-Instructions for installing my project.
-
-## Usage
-
-Information on how to use my project.
-
-## Contributing
-
-Guidelines for contributing to my project.
-
-## License
-
-Information about the license for my project.
-
  <strong>Data analysis framework</strong> 
  <br></br>
   <code style="color : purple">Share Phase</code>
