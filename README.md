@@ -1,5 +1,14 @@
 ## Data visualization using Tableau
-## Table of Contents
+
+<div align="center">
+  <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau Logo" width="100"/><br>
+  <h1>Tableau</h1>
+  <p>Portfolio using Tableau</p>
+  <a href="https://www.tableau.com/" target="_blank"><strong>Learn more</strong></a>
+</div>
+
+
+### Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
