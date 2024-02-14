@@ -29,8 +29,8 @@ graph TD;
   <ahref>https://public.tableau.com/app/profile/marc.natividad/viz/FDNYViolationsbyBoroughs/Sheet1#1</ahref>
   <br></br>
   <p>Visualized using Bubbles</p>
-  <h3>Mortality Rate (Ethnic+Gender) NYC 2007-2014</h3>
-   <ahref>https://public.tableau.com/views/MortalityRateEthnicGenderNYC2007-2014/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link</ahref>
+  <h3>Windows Event Log (Error/Warning Year Comparison)</h3>
+   <ahref>https://public.tableau.com/views/EventMonitorLogsCamparisonbyyear/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link</ahref>
    <br></br>
   <p>Visualized using horizontal bar charts</p>
   <br></br>
