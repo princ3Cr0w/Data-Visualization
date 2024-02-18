@@ -34,9 +34,12 @@ graph TD;
    <br></br>
   <p>Visualized using horizontal bar charts</p>
   <br></br>
+  <h3>Leading Cause of Death in NYC by Gender/Ethnic/Race</h3>
+  <ahref>https://public.tableau.com/views/LeadingCauseofDeathinNYCbyGenderEthnicRace/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link</ahref>
+  <br>
+  <p>Visualized using area charts</p>
+  <br>
 > [!NOTE]
 > <em>Visualization portfolio in Tableau is updated on a regular basis.</em>
-
-
 
 
