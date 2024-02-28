@@ -39,7 +39,8 @@ graph TD;
   <br>
   <p>Visualized using area charts</p>
   <br>
-> [!NOTE]
-> <em>Visualization portfolio in Tableau is updated on a regular basis.</em>
+  
+>[!NOTE]
+>Visualization portfolio in Tableau is updated on a regular basis.
 
 
